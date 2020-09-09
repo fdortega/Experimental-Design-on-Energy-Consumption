@@ -11,7 +11,7 @@ Data manipulation, normality, and nonparametric tests were utilized to ultimatel
 
 **Accessing the files:**
 
-The notebook for this project is titled: Experimental Design on Energy Consumption.ipynb
+Notebook for this project: [Experimental Design on Energy Consumption.ipynb](https://github.com/fdortega/Experimental-Design-on-Energy-Consumption/blob/master/Experimental%20Design%20on%20Energy%20Consumption.ipynb)
 
 The pdf version of the presentation is titled: Pricing Energy.pdf
 
