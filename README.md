@@ -1,4 +1,5 @@
-# Experimental Design on Energy Consumption
+# Pricing Energy
+## Experimental Design on Energy Consumption
 Year over year energy consumption comparison for the two largest cities in Texas, Houston and Dallas.
 
 This project will simulate a new energy providers interest in projecting annual energy consumption for the two largest cities in Texas. The intent is to use the data to assist in generating future price plans.
