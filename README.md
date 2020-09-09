@@ -9,3 +9,7 @@ The analysis will compare each individual city’s consumption in 2018 and 2019 
 
 Data manipulation, normality, and nonparametric tests were utilized to ultimately determine if any significant differences exist.
 
+The notebook for this project is titled: Experimental Design on Energy Consumption.ipynb
+The pdf version of the presentation is titled: Pricing Energy.pdf
+
+Thank you for your interest.
