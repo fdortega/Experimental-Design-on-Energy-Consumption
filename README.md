@@ -12,6 +12,6 @@ Data manipulation, normality, and nonparametric tests were utilized to ultimatel
 
 **Accessing the files:**
 
-Notebook for this project: [Banking on Customer Growth.ipynb](https://github.com/fdortega/Unsupervised-Learning---Banking-on-Customer-Growth/blob/main/Banking%20on%20Customer%20Growth.ipynb)
+Notebook for this project: [Experimental Design on Energy Consumption.ipynb](https://github.com/fdortega/Experimental-Design-on-Energy-Consumption/blob/master/Experimental%20Design%20on%20Energy%20Consumption.ipynb)
 
 Thank you for your interest.
